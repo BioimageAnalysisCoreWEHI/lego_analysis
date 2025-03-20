@@ -54,3 +54,6 @@
 
 # Output
 Finally we arrive at a spreadsheet with mets scored by volume of each lego channel, plus distance to nearest vessel 
+
+# Data Analysis
+All the data analysis from the extracted image data is in the folder `data_analysis`
