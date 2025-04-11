@@ -45,25 +45,21 @@ Raw Data extracted from images in "./raw_data"
 - This will generate the final dataset for analysis `./MFP_IV_combined_raw_data.csv`in the root directory
 
 003_metastatic_burden.ipynb
-
 - Fig 3s,t,v,u
 - Supp fig 2a
 
 004_blood_vessel_met_minimum_distance.ipynb
-- supp 6 a, b, c, 
+- supp 4 a, b, c, 
 - Fig 5d
 
 005_MET_stacked_comparison.ipynb
-
-- Supp 5 a-h
 - Fig 3n
 
 006_MET_Volume_thresholds.ipynb
 - Fig 3o,p,q,r
 
 007_vessel_surface_area_thickness.ipynb
-- Fig 5 efg
-- Fig 5h
+- Fig 5 e,f,g,h
 
 008_chord_diagrams
 - Supp fig 4 (all)
