@@ -65,9 +65,5 @@ Raw Data extracted from images in "./raw_data"
 - Fig 5 efg
 - Fig 5h
 
-008_chord_diagrams
-- Supp fig 4 (all)
-- Fig 4
-
 009_shannon_diversity
 - supp fig 3
